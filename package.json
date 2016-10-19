@@ -1,0 +1,31 @@
+{
+  "name": "data collect",
+  "version": "0.0.1",
+  "description": "A data collect app from bluemix app",
+  "dependencies": {
+    "ibmiotf": "^0.2.25"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npm install"
+  },
+  "author": {
+    "name": "khanh trinh",
+    "email": "hnkt2907@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Tim Jacobi",
+      "email": "tim.jacobi@uk.ibm.com"
+    },
+    {
+      "name": "Amit M Mangalvedkar",
+      "email": "amitmangalvedkar@in.ibm.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibm-watson-iot/iot-nodejs.git"
+  },
+  "license": "EPL-1.0"
+}
